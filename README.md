@@ -5,13 +5,13 @@ I am a passionate 🚀 software developer and 🤖 data engineer with over six y
 In addition to my professional work, I am an 🔌emebedded systems, 🤖 machine and 🧠 deep learning hobbyist, always exploring new technologies and pushing the boundaries of what's possible.
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Chemistry Virtual Lab amongst other super stuff!
 - 🌱 I’m currently learning Data Engineering and DevOps
+- ⚡ Fun fact: I know and can do a little bit of everything.
 <!-- - 👯 I’m looking to collaborate on ... 
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about ...
   - 📫 How to reach me: -->
-- ⚡ Fun fact: I know and can do a little bit of everything.
 
 # 💻 Projects
 ##. . . Selecting top three showoffs . . .
